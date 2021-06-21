@@ -1,0 +1,99 @@
+div{
+    background-color: black;
+    color: white;
+}
+
+#navegadorPrincipal{
+    background-color: #F0A83E;
+    color:white;
+}
+
+main{
+    text-align: center;
+}
+
+.banner{
+    background-image: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+#comederos{
+    background-color:#F0A83E;
+    background-size: contain;
+    color: white;
+}
+
+
+.contenido{
+    text-align: center;
+}
+
+
+.contacto span{
+    text-align: center;
+    background-color: #3C2313;
+    color: white;
+    width: 340px;
+    height: 264px;
+    
+}
+
+
+#botonResetear{
+    background-color: gray;
+    width: 110px;
+    height: 34px;
+}
+
+#botonEnviar{
+    background-color: #F0A83E;
+    width: 110px;
+    height: 34px;
+}
+
+.suscripcion{
+    background-color: #F0A83E;
+    color: white;
+}
+
+#ingresarcorreo{
+    background-color:white;
+    background-size: contain;
+    color: black;
+}
+
+#suscribirme{
+    background-color:
+    #3C2313;
+    background-size: contain;
+    color:white;
+}
+
+.informacion{
+    background-color: #3C2313;
+    color: white;
+
+}
+
+.redessociales p {
+    font-size: 40px;
+    color: white;
+    background-color: #272829;
+    text-align: center;
+}
+
+.fab {
+    color:white
+}
+
+#derechosreservados{
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    
+}
+
+
